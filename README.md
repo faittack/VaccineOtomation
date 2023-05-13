@@ -1,2 +1,2 @@
 # VaccineOtomation
-This program is written in C++ to check the completeness of vaccinations in a hospital. To use it, you should keep 3 different text documents and programs in the same folder. 
+To use this C++ program for checking vaccinations in a hospital, keep three text documents and programs in the same folder. The files needed are: the C++ program, a list a Vaccine, and a list of required vaccinations.Copy to your IDE, compile and run the program.
